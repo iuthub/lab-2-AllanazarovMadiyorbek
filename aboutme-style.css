@@ -33,3 +33,10 @@ img{
 	font-size: 15px;
 	font-family: "Times New Roman"
 }
+img:hover{
+	transform: scale(1.1);
+	text-decoration: underline;
+}
+a{
+	text-decoration: none;
+}
