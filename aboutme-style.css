@@ -1,0 +1,35 @@
+body{
+	background-image: url(greysolid.jpg);
+	
+}
+h2,h3{
+	font-family: Rockwell;
+	color: #00C6B1;
+	margin-left: 10px;
+}
+p{
+	font-family: "Times New Roman";
+	color: white;
+	border-bottom:2px solid grey;
+	margin-left: 5px;
+	padding: 10px;
+}
+div{
+	color: white;
+	font-size: 15px;
+
+}
+strong{
+	color: yellow;
+}
+img{
+	margin-left: 15px;
+	width: 120px;
+	height:70px;
+	transition: all 1s;
+}
+.neighbours{
+	color: white;
+	font-size: 15px;
+	font-family: "Times New Roman"
+}
